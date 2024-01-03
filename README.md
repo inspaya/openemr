@@ -1,3 +1,4 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 ![Syntax Status](https://github.com/openemr/openemr/workflows/Syntax/badge.svg?branch=master)
 ![Styling Status](https://github.com/openemr/openemr/workflows/Styling/badge.svg?branch=master)
 ![Testing Status](https://github.com/openemr/openemr/workflows/Test/badge.svg?branch=master)
